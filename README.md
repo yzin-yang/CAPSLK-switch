@@ -6,4 +6,4 @@ switch IME with CAPSLK on windows10
 
 2. set real CapsLock when long press for more than 300ms
 
-3. send `enter` before switch to en
+3. send `enter` before switch to en by `shift + CAPSLK`
